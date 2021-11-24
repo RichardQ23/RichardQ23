@@ -13,9 +13,10 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <p>Testando</p>
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>
+  <img src="https://cdn.discordapp.com/attachments/670085478279675928/913146263485177856/f08f0e6551405f1befc333f8dae1097a-removebg-preview.png" width="10%">
   <img src="https://cdn.discordapp.com/attachments/670085478279675928/913138455884755034/14587-removebg-preview.gif" width="10%">
+  <img src="https://cdn.discordapp.com/attachments/670085478279675928/913146263753592862/723696e0e46740cc83c153ac066fed56-removebg-preview.png" width="10%">
 </div>
 
   ##
